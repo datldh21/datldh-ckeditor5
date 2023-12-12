@@ -56,5 +56,16 @@
     "scripts": {
         "build": "webpack --mode production",
         "postbuild": "tsc --declaration --declarationDir build --stripInternal --emitDeclarationOnly"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/datldh21/datldh-ckeditor5.git"
+    },
+    "keywords": [
+        "custom-ckeditor5"
+    ],
+    "bugs": {
+        "url": "https://github.com/datldh21/datldh-ckeditor5/issues"
+    },
+    "homepage": "https://github.com/datldh21/datldh-ckeditor5#readme"
 }
