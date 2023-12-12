@@ -2,7 +2,7 @@
     "name": "datldh-ckeditor5",
     "author": "DatLDH",
     "description": "A custom CKEditor 5 build made by DatLDH",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "license": "SEE LICENSE IN LICENSE.md",
     "main": "./build/ckeditor.js",
     "types": "./build/ckeditor.d.ts",
