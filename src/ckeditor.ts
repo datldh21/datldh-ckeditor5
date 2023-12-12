@@ -21,7 +21,6 @@ import { CKBox } from '@ckeditor/ckeditor5-ckbox';
 import { CloudServices } from '@ckeditor/ckeditor5-cloud-services';
 import { CodeBlock } from '@ckeditor/ckeditor5-code-block';
 import type { EditorConfig } from '@ckeditor/ckeditor5-core';
-import { TableOfContents } from '@ckeditor/ckeditor5-document-outline';
 import { Essentials } from '@ckeditor/ckeditor5-essentials';
 import { FindAndReplace } from '@ckeditor/ckeditor5-find-and-replace';
 import { FontBackgroundColor, FontColor, FontFamily, FontSize } from '@ckeditor/ckeditor5-font';
@@ -147,7 +146,6 @@ class Editor extends ClassicEditor {
 		Table,
 		TableCaption,
 		TableCellProperties,
-		TableOfContents,
 		TableProperties,
 		TableToolbar,
 		TextPartLanguage,
